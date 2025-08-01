@@ -1,4 +1,5 @@
-# Jogo da Memória desenvolvido em um  desafio no Bootcamp Front-End do Zeroda da DIO 
+# Jogo da Memória 
+Desenvolvido em um desafio no Bootcamp Front-End do Zero da da DIO
 
 ### **Habilidades e Aprendizados**
 
